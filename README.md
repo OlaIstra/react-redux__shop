@@ -1,4 +1,4 @@
-This is online shop prototype. It was made using theese technologies:
+This is online shop prototype. It was made using these technologies:
 - react
 - react-router-dom
 - redux
