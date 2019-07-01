@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      'id':1,
+      'title':'Learning JavaScript Design Patterns',
+      'price': 20,
+      'img': 'https://images-na.ssl-images-amazon.com/images/I/51NXWG-RplL.jpg'
+    },
+    {
+      id:2,
+      'title':'JavaScript: The Definitive Guide, 6th Edition',
+      'price': 40,
+      'img': 'https://covers.oreillystatic.com/images/0636920035534/lrg.jpg'
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Learning JavaScript Design Patterns",
+      "img": "https://cdn1.ozone.ru/multimedia/c1200/1008879325.jpg",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "title": "Learning JavaScript, 3rd Edition - O'Reilly Media",
+      "img": "https://covers.oreillystatic.com/images/0636920035534/lrg.jpg",
+      "price": 40
+    }
+  ]
+}
